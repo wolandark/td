@@ -2,7 +2,9 @@
 Simple &amp; Elegant To Do List Manager Written In BASH
 
 # Usage
-td -h
+Place the script somewhere in your $PATH <br>
+Run the script with no arguments to see the help
+
    
 
 
